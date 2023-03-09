@@ -7,8 +7,8 @@ In case, the list becomes too big in the future you can use `cmd + f` or `ctrl +
 
 ## List of Programs
 
-- [Searching](./searching)
-  - [Linear Search](./searching/linearsearch.cpp)
+- [Searching](./Searching)
+  - [Linear Search](./Searching/linearsearch.cpp)
 - [Sorts](./Sorts)
   - [Bubble Sort](./Sorts/bubblesort.cpp)
   
