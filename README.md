@@ -9,6 +9,7 @@ In case, the list becomes too big in the future you can use `cmd + f` or `ctrl +
 
 - [Searching](./Searching)
   - [Linear Search](./Searching/linearsearch.cpp)
+  - [Binary Search](./Searching/binarysearch.cpp)
 - [Sorts](./Sorts)
   - [Bubble Sort](./Sorts/bubblesort.cpp)
   
