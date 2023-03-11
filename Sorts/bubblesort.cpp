@@ -22,6 +22,8 @@ int main(){
         cout<<"Enter number:";
         cin>>arr[i];
     }
+
+    //Displays the unsorted array
     cout<<"Unsorted Array:";
     for(int i=0; i<n; i++){
         cout<<arr[i]<<' ';
@@ -30,6 +32,7 @@ int main(){
     
     bubblesort(arr, n);
 
+    //Displays the sorted array
     cout<<"Sorted Array:";
     for(int i=0; i<n; i++){
         cout<<arr[i]<<' ';
