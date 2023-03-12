@@ -12,6 +12,6 @@ In case, the list becomes too big in the future you can use `cmd + f` or `ctrl +
   - [Binary Search](./Searching/binarysearch.cpp)
 - [Sorts](./Sorts)
   - [Bubble Sort](./Sorts/bubblesort.cpp)
-  - [Selection Sort](./Sorts/selectionsort.cpp)
   - [Insertion Sort](./Sorts/insertionsort.cpp)
+  - [Selection Sort](./Sorts/selectionsort.cpp)
   
