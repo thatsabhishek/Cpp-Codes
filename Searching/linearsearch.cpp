@@ -27,7 +27,7 @@ int main(){
     cout<<"Element to be searched:";
     cin>>x;
 
-    int result = linearsearch(arr,n, x);;
+    int result = linearsearch(arr,n, x);
     if(result == -1)
         cout << "Element not found" << endl;
     else
