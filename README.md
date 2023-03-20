@@ -13,5 +13,6 @@ In case, the list becomes too big in the future you can use `cmd + f` or `ctrl +
 - [Sorts](./Sorts)
   - [Bubble Sort](./Sorts/bubblesort.cpp)
   - [Insertion Sort](./Sorts/insertionsort.cpp)
+  - [Quick Sort](./Sorts/quicksort.cpp)
   - [Selection Sort](./Sorts/selectionsort.cpp)
   
