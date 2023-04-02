@@ -18,5 +18,6 @@ In case, the list becomes too big in the future you can use `cmd + f` or `ctrl +
   - [Selection Sort](./Sorts/selectionsort.cpp)
 - [Other Programs](./otherprograms)
   - [Armstrong number or not](./otherprograms/armstrongnumber.cpp)
+  - [Fibonacci Series](./otherprograms/fibonacci.cpp)
   - [Prime number or not](./otherprograms/primenumber.cpp)
   - [Prime numbers upto n](./otherprograms/primenumupton.cpp)
