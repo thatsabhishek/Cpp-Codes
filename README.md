@@ -22,6 +22,8 @@ In case, the list becomes too big in the future you can use `cmd + f` or `ctrl +
   - [Factorial of a number](./otherprograms/factorial.cpp)
   - [Fibonacci Series](./otherprograms/fibonacci.cpp)
   - [Leap Year or not](./otherprograms/leapyear.cpp)
+  - [Multiplication of n natural numbers](./otherprograms/multiplicationofnnumbers.cpp)
   - [Palindrome Number](./otherprograms/palindrome.cpp)
   - [Prime number or not](./otherprograms/primenumber.cpp)
   - [Prime numbers upto n](./otherprograms/primenumupton.cpp)
+  - [Sum of n natural numbers](./otherprograms/sumofnnumbers.cpp)
